@@ -12,6 +12,9 @@ Skills: VUE JS / REACT / GATSBY/ JS / NODE / TYPESCRIPT / HTML / CSS / C / C++ /
 - 🔭 I’m currently working on this page. 
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/fua-alfu-6837a31a7/)  
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FuaAlfu)](https://github.com/anuraghazra/github-readme-stats)
 
 
