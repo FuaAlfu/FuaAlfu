@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is fua
 #### Design and Development
-<! --![Design and Development](https://github.com/FuaAlfu/FuaAlfu/blob/main/fua-alfu-coding-paddle.png) -->
 
 I'm fua, and I do content on Design and Development. I realy enjoy learning new languages and frameworks like deno and gatsby etc, as long as
 I work in node js , go , NET Core, C# and SQL Server., react and all the good stuff.
