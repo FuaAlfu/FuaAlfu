@@ -11,9 +11,11 @@ add me and check out my profile time to time, and who know you might find someth
 
 - 🔭 I’m currently working on this page. 
 
+## Links and Socials
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/fua-alfu-6837a31a7/)  
 
+## statics (most used)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FuaAlfu&theme=tokyonight)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FuaAlfu)](https://github.com/anuraghazra/github-readme-stats)
