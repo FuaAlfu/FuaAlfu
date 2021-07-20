@@ -7,7 +7,7 @@ I also enjoy working on unity for my own games and wireframing UX , UI and desig
 add me and check out my profile time to time, and who know you might find something that inspire you.
 
 ## Skills and Experience
- VUE JS / REACT / GATSBY/ JS / NODE / TYPESCRIPT / HTML / CSS / C / C++ / C# / GO / SQL POSTGER/  NOSQL MONGODB/ UNITY /BLINDER
+ VUE JS / REACT / GATSBY/ JS / NODE.js / TYPESCRIPT / HTML / CSS / C / C++ / Java / C# / GO / SQL POSTGER/  NOSQL MONGODB/ UNITY /BLINDER
 
 - 🔭 I’m currently working on this page. 
 
