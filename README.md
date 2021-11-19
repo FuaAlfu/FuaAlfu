@@ -1,4 +1,4 @@
-### Hi there 👋, my name is fua
+### Hi there 👋, my name is FAHD ALFUHAID
 a software engineer
 #### Design and Development
 
