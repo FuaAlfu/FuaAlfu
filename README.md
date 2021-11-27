@@ -18,8 +18,8 @@ add me and check out my profile time to time, and who know you might find someth
 
 ## statics (most used)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FuaAlfu&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FuaAlfu&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FuaAlfu)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FuaAlfu&show_icons=true)
 
 
