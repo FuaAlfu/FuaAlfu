@@ -10,7 +10,7 @@ add me and check out my profile time to time, and who know you might find someth
 ## Skills and Experience
  VUE JS / REACT / GATSBY/ JS / NODE.js / TYPESCRIPT / HTML / CSS / C / C++ / Java /js/ C# / GO / SQL POSTGER/  NOSQL/ MONGODB/ UNITY /BLINDER
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on this page ^. 
 
 ## Links and Socials
 
