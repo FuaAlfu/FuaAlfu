@@ -3,12 +3,16 @@ a software engineer
 #### Design and Development
 
 I do content on Design and Development. I realy enjoy learning new languages and frameworks like deno and gatsby etc, as long as
-I work in c , c++ ,java , node js , go , NET Core, C# and all the good stuff.
+I work in c , c++ ,java , js,  node js, Typescript , python, go , NET Core, C# and all the good stuff.
 I also enjoy working on unity for my own games and wireframing UX , UI and design in general.
 add me and check out my profile time to time, and who know you might find something that inspire you.
 
 ## Skills and Experience
- VUE JS / REACT / GATSBY/ JS / NODE.js / TYPESCRIPT / HTML / CSS / C / C++ / Java /js/ C# / GO / SQL POSTGER/  NOSQL/ MONGODB/ UNITY /BLINDER
+Apps / Web applications Dev tools:
+ VUE JS / REACT / GATSBY/ Next.js / JS / NODE.js / TYPESCRIPT / HTML / CSS / C / C++ / Java / python /js/ C# / GO / SQL / NOSQL / POSTGER/ Mysql / MONGODB
+
+ Video Games Dev tools:
+ UNITY / Unreal Engine / Godot /BLINDER
 
 - 🔭 I’m currently working on this page ^. 
 
